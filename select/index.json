@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Very Thought Of You",
+  "base_artist": "Billie Holiday",
+  "createdAt": "2026-03-16T15:30:01.661455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Cassandra Wilson",
+      "has_synced": false,
+      "path": "select/01_The_Very_Thought_of_You_Cassandra_Wilson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Diane Schuur",
+      "has_synced": true,
+      "path": "select/02_The_Very_Thought_Of_You_Diane_Schuur.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Albert King",
+      "has_synced": true,
+      "path": "select/03_The_Very_Thought_Of_You_Albert_King.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Michael Bolton",
+      "has_synced": false,
+      "path": "select/04_The_Very_Thought_of_You_Michael_Bolton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Stacey Kent",
+      "has_synced": true,
+      "path": "select/05_The_Very_Thought_of_You_Stacey_Kent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/06_The_Very_Thought_of_You_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "JJ Heller",
+      "has_synced": true,
+      "path": "select/07_The_Very_Thought_of_You_JJ_Heller.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/08_The_Very_Thought_of_You_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Chris Botti",
+      "has_synced": true,
+      "path": "select/09_The_Very_Thought_Of_You_Chris_Botti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/10_The_Very_Thought_Of_You_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Johnny Hartman",
+      "has_synced": false,
+      "path": "select/11_The_Very_Thought_Of_You_Johnny_Hartman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/12_The_Very_Thought_of_You_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Sinatra, Frank",
+      "has_synced": true,
+      "path": "select/13_The_Very_Thought_of_You_Sinatra,_Frank.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/14_The_Very_Thought_of_You_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Very Thought of You",
+      "artist": "Bing Crosby",
+      "has_synced": true,
+      "path": "select/15_The_Very_Thought_of_You_Bing_Crosby.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Natalie Cole",
+      "has_synced": true,
+      "path": "select/16_The_Very_Thought_Of_You_Natalie_Cole.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Very Thought Of You",
+      "artist": "Ricky Nelson",
+      "has_synced": false,
+      "path": "select/17_The_Very_Thought_Of_You_Ricky_Nelson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Very Thought Of You",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/pl_01_The_Very_Thought_Of_You_Billie_Holiday.txt"
+    }
+  ]
+}
